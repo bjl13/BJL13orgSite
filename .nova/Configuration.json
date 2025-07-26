@@ -3,14 +3,15 @@
 
   ],
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
-    "json"
+    "json",
+    "scss"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/tokens\/color\/background.json",
     "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/tokens\/color\/border.json",
     "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/tokens\/color\/chart.json",
-    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/tokens\/color\/font.json",
-    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/tokens\/color\/brand.json"
+    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/themes\/bjl13\/assets\/scss\/_brand.scss",
+    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/tokens\/color\/font.json"
   ],
   "workspace.art_style" : 1,
   "workspace.color" : 0,
