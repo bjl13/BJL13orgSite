@@ -3,10 +3,16 @@
 
   ],
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
-    "json"
+    "dockerfile",
+    "plaintext",
+    "toml",
+    "liquid-json"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/tokens\/global\/font.json"
+    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/Dockerfile",
+    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/config.toml",
+    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/Caddyfile",
+    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/layouts\/index.json"
   ],
   "workspace.art_style" : 1,
   "workspace.color" : 0,
