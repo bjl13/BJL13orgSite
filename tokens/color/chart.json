@@ -2,12 +2,12 @@
   "color": {
     "chart": {
       "categorical": {
-        "01": { "value": "{color.brand.primary.base}", "type": "color" }, // Equity Purple
-        "02": { "value": "{color.brand.secondary.base}", "type": "color" }, // Liberation Coral
-        "03": { "value": "{color.accent.gold.base}", "type": "color" }, // Accent Gold
-        "04": { "value": "{color.base.teal.500}", "type": "color" },
+        "01": { "value": "{color.brand.primary.base}", "type": "color" },
+        "02": { "value": "{color.brand.secondary.base}", "type": "color" },
+        "03": { "value": "{color.brand.accent.base}", "type": "color" },
+        "04": { "value": "{color.base.green.400}", "type": "color" },
         "05": { "value": "{color.base.orange.400}", "type": "color" },
-        "06": { "value": "{color.base.green.400}", "type": "color" }
+        "06": { "value": "{color.base.red.400}", "type": "color" }
       },
       "sequential": {
         "lightest": { "value": "{color.base.purple.100}", "type": "color" },
@@ -23,15 +23,18 @@
         "neutral": { "value": "{color.base.grey.400}", "type": "color" }
       },
       "highlight": {
-        "primary": { "value": "{color.base.yellow.500}", "type": "color" },
-        "secondary": { "value": "{color.base.cyan.400}", "type": "color" }
+        "primary": { "value": "{color.brand.accent.base}", "type": "color" },
+        "secondary": {
+          "value": "{color.brand.primary.lighter}",
+          "type": "color"
+        }
       },
       "overlay": {
         "transparent": { "value": "rgba(255,255,255,0.4)", "type": "color" },
         "dim": { "value": "rgba(0,0,0,0.6)", "type": "color" }
       },
       "border": {
-        "grid": { "value": "{color.base.grey.300}", "type": "color" },
+        "grid": { "value": "{color.base.grey.200}", "type": "color" },
         "axis": { "value": "{color.base.grey.600}", "type": "color" }
       }
     }

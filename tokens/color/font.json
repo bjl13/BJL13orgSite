@@ -21,7 +21,7 @@
         "error": { "value": "{color.base.red.400}", "type": "color" },
         "warning": { "value": "{color.base.orange.400}", "type": "color" },
         "success": { "value": "{color.base.green.400}", "type": "color" },
-        "disabled": { "value": "{color.base.grey.300}", "type": "color" }
+        "disabled": { "value": "{color.base.grey.200}", "type": "color" }
       },
 
       "button": {

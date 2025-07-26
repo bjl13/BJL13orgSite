@@ -7,17 +7,17 @@
         "attributes": { "font": "base" }
       },
       "alt": {
-        "value": "{color.base.blue_grey.100}",
+        "value": "{color.base.grey.100}",
         "type": "color",
         "attributes": { "font": "base" }
       },
       "disabled": {
-        "value": "{color.base.blue_grey.100}",
+        "value": "{color.base.grey.200}",
         "type": "color",
         "attributes": { "font": "base" }
       },
       "inverse": {
-        "value": "{color.base.blue_grey.900}",
+        "value": "{color.base.grey.900}",
         "type": "color",
         "attributes": { "font": "inverse" }
       },
@@ -37,12 +37,12 @@
         "attributes": { "font": "inverse" }
       },
       "info": {
-        "value": "{color.base.light_blue.600}",
+        "value": "{color.base.purple.300}",
         "type": "color",
         "attributes": { "font": "inverse" }
       },
       "link": {
-        "value": "{color.base.light_blue.600}",
+        "value": "{color.base.purple.300}",
         "type": "color",
         "attributes": { "font": "inverse" }
       },
@@ -51,21 +51,24 @@
         "type": "color",
         "attributes": { "font": "inverse" }
       },
-
       "button": {
         "primary": {
           "base": { "value": "{color.brand.primary.base}", "type": "color" },
-          "disabled": { "value": "{color.brand.primary.light}", "type": "color" },
+          "disabled": {
+            "value": "{color.brand.primary.light}",
+            "type": "color"
+          },
           "active": { "value": "{color.brand.primary.dark}", "type": "color" }
         },
-
         "secondary": {
           "base": { "value": "{color.brand.secondary.base}", "type": "color" },
-          "disabled": { "value": "{color.brand.secondary.light}", "type": "color" },
+          "disabled": {
+            "value": "{color.brand.secondary.light}",
+            "type": "color"
+          },
           "active": { "value": "{color.brand.secondary.dark}", "type": "color" }
         }
       },
-
       "overlay": {
         "light": { "value": "#FFFFFFCC", "type": "color" },
         "dark": { "value": "#00000044", "type": "color" }
