@@ -1,4 +1,4 @@
 baseURL = "https://bjl13.org/"
 languageCode = "en-us"
 title = "BJL13 Enterprise Solutions"
-theme = "bjl13"
+theme = "BES"
