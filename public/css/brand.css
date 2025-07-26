@@ -1,0 +1,10 @@
+:root {
+  --color-primary: #BDAECD;
+  --color-highlight: #EA8A7C;
+  --color-accent: #CDA433;
+  --color-white: #FFFFFF;
+  --color-charcoal: #1a1a1a;
+  --font-heading: "Sora", sans-serif;
+  --font-body: "Spectral", serif;
+  --font-emphasis: "Spectral SC", serif;
+}

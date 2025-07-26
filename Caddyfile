@@ -1,0 +1,4 @@
+bjl13.org {
+  root * /srv/bjl13-org-site/public
+  file_server
+}

@@ -1,0 +1,14 @@
+{
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "json"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/ORG\/bjl13-org-site\/tokens\/text.json"
+  ],
+  "workspace.art_style" : 1,
+  "workspace.color" : 0,
+  "workspace.name" : "BJL13.org Site"
+}
